@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cuttle-money-react-website/static/css/main.0d010e26.chunk.css",
+    "main.js": "/cuttle-money-react-website/static/js/main.06abcefd.chunk.js",
+    "main.js.map": "/cuttle-money-react-website/static/js/main.06abcefd.chunk.js.map",
+    "runtime-main.js": "/cuttle-money-react-website/static/js/runtime-main.d064fb96.js",
+    "runtime-main.js.map": "/cuttle-money-react-website/static/js/runtime-main.d064fb96.js.map",
+    "static/js/2.876da4d4.chunk.js": "/cuttle-money-react-website/static/js/2.876da4d4.chunk.js",
+    "static/js/2.876da4d4.chunk.js.map": "/cuttle-money-react-website/static/js/2.876da4d4.chunk.js.map",
+    "index.html": "/cuttle-money-react-website/index.html",
+    "precache-manifest.b5dc593837d84d08e04613dc1ef7e600.js": "/cuttle-money-react-website/precache-manifest.b5dc593837d84d08e04613dc1ef7e600.js",
+    "service-worker.js": "/cuttle-money-react-website/service-worker.js",
+    "static/css/main.0d010e26.chunk.css.map": "/cuttle-money-react-website/static/css/main.0d010e26.chunk.css.map",
+    "static/js/2.876da4d4.chunk.js.LICENSE.txt": "/cuttle-money-react-website/static/js/2.876da4d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d064fb96.js",
+    "static/js/2.876da4d4.chunk.js",
+    "static/css/main.0d010e26.chunk.css",
+    "static/js/main.06abcefd.chunk.js"
+  ]
+}
